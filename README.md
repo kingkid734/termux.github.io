@@ -93,6 +93,6 @@ Post Content
 ##
 
 
-[termux.dev]: https://termux.dev PKG
+[termux.dev]: https://termux.dev delete 
 
 
